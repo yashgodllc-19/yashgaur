@@ -1,9 +1,7 @@
 # yashgaur
 <h2 align="center">⚙️ WHAT I ACTUALLY BUILD</h2>
 
-<p align="center">
-  <sub>Minimal words. Heavy meaning.</sub>
-</p>
+
 
 <br/>
 
