@@ -1,61 +1,20 @@
 # yashgaur
-<h2 align="center">⚙️ WHAT I ACTUALLY BUILD</h2>
-
-
-
-<br/>
-
 <p align="center">
-  🧠 Cognitive systems <br/>
-  ⚡ Autonomous workflows <br/>
-  🧩 Tool-driven intelligence <br/>
-  🧬 Product-grade logic <br/>
-  🏗️ Scalable architectures
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00E7F7&center=true&vCenter=true&width=800&lines=Building+systems%2C+not+apps.;Logic+over+noise.;Automation+over+manual+work.;Learning+fast.+Shipping+faster." />
 </p>
 <p align="center">
-  <i>Systems over noise.</i>
+  <img src="https://github-profile-trophy.vercel.app/?username=yashgodllc-19&theme=onestar&no-frame=true&margin-w=15" />
 </p>
-<hr/>
-
-<h3 align="center">🧠 HOW I THINK</h3>
-
 <p align="center">
-  I don’t chase tools.<br/>
-  I design systems.<br/><br/>
-  I don’t write code to look smart.<br/>
-  I write code to remove friction.
+  <img src="https://github-readme-stats.vercel.app/api?username=yashgodllc-19&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgodllc-19&layout=compact&theme=tokyonight" height="160px"/>
 </p>
-
 <p align="center">
-  <i>Clarity → Systems → Scale</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashgodllc-19&theme=tokyonight" />
 </p>
-<hr/>
-
-<h3 align="center">⚙️ OPERATING PRINCIPLES</h3>
-
 <p align="center">
-  • Systems > Features <br/>
-  • Automation > Manual effort <br/>
-  • Leverage > Hard work <br/>
-  • Shipping > Perfection <br/>
-  • Signal > Noise
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashgodllc-19&theme=tokyo-night" />
 </p>
-<hr/>
-
-<h3 align="center">🚫 WHAT I DON'T DO</h3>
-
 <p align="center">
-  ❌ Tutorial hell <br/>
-  ❌ Clone projects <br/>
-  ❌ Trend hopping <br/>
-  ❌ Fake productivity
-</p>
-<hr/>
-
-<h3 align="center">📡 CURRENT MODE</h3>
-
-<p align="center">
-  Designing systems in silence.<br/>
-  Shipping quietly.<br/>
-  Letting results speak.
+  <img src="https://komarev.com/ghpvc/?username=yashgodllc-19&label=Profile+Views&color=00E7F7&style=flat-square" />
 </p>
