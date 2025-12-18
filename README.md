@@ -1,20 +1,30 @@
-# yashgaur
+<h1 align="center">yashgaur</h1>
+
+<br/>
+
+<!-- GITHUB STATS -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00E7F7&center=true&vCenter=true&width=800&lines=Building+systems%2C+not+apps.;Logic+over+noise.;Automation+over+manual+work.;Learning+fast.+Shipping+faster." />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashgodllc-19&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashgodllc-19&theme=monokai" />
 </p>
+
+<br/>
+
+<!-- STREAK + PROFILE SUMMARY -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashgodllc-19&theme=onestar&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashgodllc-19&theme=monokai" />
 </p>
+
+<br/>
+
+<!-- CONTRIBUTION GRAPH -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashgodllc-19&show_icons=true&theme=tokyonight" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgodllc-19&layout=compact&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashgodllc-19&theme=react-dark" />
 </p>
+
+<br/>
+
+<!-- PROFILE VIEWS -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashgodllc-19&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashgodllc-19&theme=tokyo-night" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yashgodllc-19&label=Profile+Views&color=00E7F7&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=yashgodllc-19&label=Profile+Views&color=blueviolet&style=flat" />
 </p>
